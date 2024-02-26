@@ -1,5 +1,4 @@
 ## Hi there 👋
-## I am graduated from Ha Noi University of Science and Technology 
 <!--
 **QuynhSean/QuynhSean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
